@@ -1,0 +1,26 @@
+{
+  "name": "tsdepviz",
+  "version": "0.0.1",
+  "description": "Visualize dependencies between TypeScript source files",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCavanaugh/tsdepviz.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanCavanaugh/tsdepviz/issues"
+  },
+  "homepage": "https://github.com/RyanCavanaugh/tsdepviz#readme",
+  "dependencies": {
+    "@types/node": "^10.0.2",
+    "typescript": "^2.8.3"
+  }
+}
