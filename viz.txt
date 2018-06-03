@@ -1,0 +1,5 @@
+digraph compiler {
+    "core.ts" [shape=rect]
+    "core.ts" -> "types.ts" [label="(147)"]
+    "core.ts" -> "sys.ts" [label="FileWatcher, close"]
+}
